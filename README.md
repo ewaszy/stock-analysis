@@ -29,19 +29,19 @@ In 2018, all stocks except two, ENPH and RUN, experienced a loss in return. ENPH
 
 ### Execution Times of Original Script vs Refactored Script
 
-The original script ran the analysis for 2017 in seconds.
+The original script ran the analysis for 2017 in about 0.69 seconds.
 
 ![VBA_Challenge_2017_Original_Script_Runtime](https://user-images.githubusercontent.com/84869167/124541300-bb541b00-dde6-11eb-85b5-35cb3840f436.PNG)
 
-The original script ran the analysis for 2018 in seconds. 
+The original script ran the analysis for 2018 in about 0.67 seconds. 
 
 ![VBA_Challenge_2018_Original_Script_Runtime](https://user-images.githubusercontent.com/84869167/124541313-bee7a200-dde6-11eb-8b87-cb2ee16a34fd.PNG)
 
-The refectored script ran the analysis for 2017 in seconds.
+The refectored script ran the analysis for 2017 in about 0.16 seconds.
 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/84869167/124541332-cad36400-dde6-11eb-9243-2d8a81e410a8.PNG)
 
-The refactored script ran the analysis for 2018 in seconds. 
+The refactored script ran the analysis for 2018 in about 0.16 seconds. 
 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/84869167/124541352-d32b9f00-dde6-11eb-9712-926520d8c573.PNG)
 
